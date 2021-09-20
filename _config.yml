@@ -1,4 +1,8 @@
 title: PartiQL Language Reference
-description: 
+description: A sample PartiQL language reference using just-the-docs
 
 theme: just-the-docs
+
+# Enable or disable the site search
+# Supports true (default) or false
+search_enabled: true
