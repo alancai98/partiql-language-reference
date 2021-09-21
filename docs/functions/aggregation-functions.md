@@ -10,7 +10,8 @@ parent: Functions
 TODO: including some aggregate quantifier (`ALL`/`DISTINCT`)
 
 ### Supported Aggregate Functions
+- AVG
+- COUNT
 - MAX
 - MIN
-- COUNT
 - SUM
