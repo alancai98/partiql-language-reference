@@ -2,3 +2,29 @@
 layout: default
 title: Data Types
 ---
+
+## Supported Data Types
+- MISSING
+- NULL
+- BOOLEAN
+- SMALLINT
+- INTEGER
+- FLOAT
+- REAL
+- DOUBLE_PRECISION
+- DECIMAL
+- NUMERIC
+- TIMESTAMP
+- DATE
+- TIME
+- CHARACTER
+- CHARACTER_VARYING
+- STRING
+- SYMBOL
+- CLOB
+- BLOB
+- STRUCT
+- TUPLE
+- LIST
+- SEXP
+- BAG
